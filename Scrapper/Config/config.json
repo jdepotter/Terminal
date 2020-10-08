@@ -1,0 +1,11 @@
+{
+    "db": {
+        
+    },
+    "sites": [
+        {
+            "target": "fenix",
+            "mainUrl": "https://www.fenixmarineservices.com/empty-receiving/"
+        }
+    ]
+}
